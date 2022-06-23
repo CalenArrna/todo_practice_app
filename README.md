@@ -5,5 +5,5 @@ About the app:
 It is a simple todo app. You get to a list with the title Today. You can add new items with the + and if you check the checkbox, the item got deleted.
 You can check or create other lists by changing the URL, addig something like /home or /work.
 
-App is running on:
+You can check this out here:
 https://csabi-todo-practice.herokuapp.com/
